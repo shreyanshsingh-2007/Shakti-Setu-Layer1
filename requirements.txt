@@ -1,1 +1,10 @@
-
+opencv-python
+Pillow
+numpy
+pycocotools
+PyYAML
+pandas
+matplotlib
+tqdm
+python-dotenv
+pytest
